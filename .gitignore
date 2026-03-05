@@ -11,3 +11,9 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# SSH keys
+*.pem
+*.key
+id_ed25519
+ghp_*
